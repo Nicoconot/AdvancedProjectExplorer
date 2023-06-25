@@ -1,4 +1,4 @@
-# AdvancedProjectExplorer (WIP)
+# Advanced Project Explorer (WIP)
 
 An overhaul of Unity's project tab for better navigation, including a tagging system and folder bookmarking.
 
